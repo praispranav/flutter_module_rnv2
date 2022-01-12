@@ -4,12 +4,12 @@
   "version": "1.0.0",
   "license": "MIT",
   "description": "Flutter module as a React Native package",
-  "main": "index.js",
+  "main": "index.ts",
   "types": "index.d.ts",
   "files": [
     "README.md",
     "android-rn",
-    "index.js",
+    "index.ts",
     "ios-rn",
     "FlutterModuleRn.podspec"
   ],

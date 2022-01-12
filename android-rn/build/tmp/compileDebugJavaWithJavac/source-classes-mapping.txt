@@ -1,0 +1,6 @@
+com/reactlibrary/BuildConfig.java
+ com.reactlibrary.BuildConfig
+com/reactlibrary/FlutterModuleRnPackage.java
+ com.reactlibrary.FlutterModuleRnPackage
+com/reactlibrary/FlutterModuleRnModule.java
+ com.reactlibrary.FlutterModuleRnModule
