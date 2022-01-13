@@ -1,34 +1,34 @@
-com.example.flutter_module_rn.R$attr
-com.example.flutter_module_rn.R
-com.example.flutter_module_rn.R$dimen: R$dimen()
-com.example.flutter_module_rn.R$dimen
-com.example.flutter_module_rn.R$anim
-com.example.flutter_module_rn.R$color
-com.example.flutter_module_rn.R$string: R$string()
-com.example.flutter_module_rn.R: R()
-com.example.flutter_module_rn.R$style: R$style()
-com.example.flutter_module_rn.R$integer
-com.example.flutter_module_rn.R$string
-io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
-com.example.flutter_module_rn.R$interpolator
 io.flutter.plugins.GeneratedPluginRegistrant
-com.example.flutter_module_rn.R$integer: R$integer()
-com.example.flutter_module_rn.R$drawable: R$drawable()
-com.example.flutter_module_rn.R$style
-com.example.flutter_module_rn.R$interpolator: R$interpolator()
-com.example.flutter_module_rn.R$layout
-com.example.flutter_module_rn.R$color: R$color()
-com.example.flutter_module_rn.R$bool
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+com.example.flutter_module_rn.R$styleable: R$styleable()
+com.example.flutter_module_rn.R$id: R$id()
 com.example.flutter_module_rn.R$drawable
 com.example.flutter_module_rn.R$bool: R$bool()
-com.example.flutter_module_rn.R$id
-com.example.flutter_module_rn.R$id: R$id()
-com.example.flutter_module_rn.R$styleable: R$styleable()
 com.example.flutter_module_rn.R$attr: R$attr()
-com.example.flutter_module_rn.R$animator: R$animator()
-io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
-com.example.flutter_module_rn.R$anim: R$anim()
-com.example.flutter_module_rn.R$animator
+com.example.flutter_module_rn.R$bool
+com.example.flutter_module_rn.R$string
+com.example.flutter_module_rn.R$anim
+com.example.flutter_module_rn.R$color
+com.example.flutter_module_rn.R$attr
+com.example.flutter_module_rn.R: R()
+com.example.flutter_module_rn.R$drawable: R$drawable()
+com.example.flutter_module_rn.R$id
+com.example.flutter_module_rn.R$interpolator
+com.example.flutter_module_rn.R$style: R$style()
+com.example.flutter_module_rn.R$dimen: R$dimen()
 com.example.flutter_module_rn.R$styleable
-io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+com.example.flutter_module_rn.R$string: R$string()
+com.example.flutter_module_rn.R$interpolator: R$interpolator()
+com.example.flutter_module_rn.R$color: R$color()
+com.example.flutter_module_rn.R$animator: R$animator()
+com.example.flutter_module_rn.R$animator
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+com.example.flutter_module_rn.R$layout
 com.example.flutter_module_rn.R$layout: R$layout()
+com.example.flutter_module_rn.R$integer
+com.example.flutter_module_rn.R$anim: R$anim()
+com.example.flutter_module_rn.R$dimen
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+com.example.flutter_module_rn.R
+com.example.flutter_module_rn.R$style
+com.example.flutter_module_rn.R$integer: R$integer()

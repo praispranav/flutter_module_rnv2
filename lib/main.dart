@@ -36,9 +36,9 @@ class _MyAppState extends State<MyApp> {
   String time = 'waiting...';
 
   @override
-  void initState() async {
+  void initState() {
     super.initState();
-    await BackgroundLocation.setAndroidNotification(
+    BackgroundLocation.setAndroidNotification(
       title: 'Patrol',
       message: 'Background location updating',
       icon: '@mipmap/ic_launcher',
