@@ -104,6 +104,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "loading_indicator",
+      "rootUri": "file:///home/praispranav/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/loading_indicator-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///home/praispranav/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.11",
       "packageUri": "lib/",
@@ -224,7 +230,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-01-12T04:19:08.047616Z",
+  "generated": "2022-01-13T17:21:55.918786Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }

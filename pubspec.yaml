@@ -30,6 +30,7 @@ dependencies:
   url_launcher: ^6.0.12
   background_location: ^0.8.1
   http: ^0.13.4
+  loading_indicator: ^3.0.2
 
 dev_dependencies:
   flutter_test:
